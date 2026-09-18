@@ -136,6 +136,8 @@ http://strm112.1.fm/loveclassics_mobile_mp3
 https://playerservices.streamtheworld.com/api/livestream-redirect/MIXFM_CURITIBAAAC.aac?dist=mix-web-player-radio-ao-vivo&315984.22807694715
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mtP4dgB/jp.png" group-title="RADIO", JOVEMPAN FM
+http://centova6.ciclanohost.com.br:9256/;
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/V3nZYGm/vcbc.jpg" group-title="RADIO", COCA-COLA
 http://listen.181fm.com:7080/181-power_128k.mp3
@@ -171,41 +173,50 @@ https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/chunklis
 #EXTINF:-1 id="ocko.br" tvg-logo="https://tinyurl.com/v2ptvbue" group-title="SPORTS", ONEFOOTBALL
 http://srv.cldplay.in:80/lelezago/lelezago@2021/151162
 
-#EXTINF:-1 id="ocko.br" tvg-logo="https://tinyurl.com/v2ptvbue" group-title="SPORTS", Prime
+#EXTINF:-1 id="ocko.br" tvg-logo="https://dnt33b.infinityfreeapp.com/apk/img/prm.png" group-title="SPORTS", Prime
 http://srv.cldplay.in:80/lelezago/lelezago@2021/83347
 
-#EXTINF:-1 id="ocko.br" tvg-logo="https://tinyurl.com/v2ptvbue" group-title="SPORTS", Prime 2
+#EXTINF:-1 id="ocko.br" tvg-logo="https://dnt33b.infinityfreeapp.com/apk/img/prm.png" group-title="SPORTS", Prime 2
 http://srv.cldplay.in:80/lelezago/lelezago@2021/83452
 
-#EXTINF:-1 id="ocko.br" tvg-logo="https://tinyurl.com/v2ptvbue" group-title="SPORTS", Xsports
+#EXTINF:-1 id="Xsports.br" tvg-logo="http://i.ibb.co/xXp5qbG/eleven6.png" group-title="SPORTS", Xsports
 http://srv.cldplay.in:80/lelezago/lelezago@2021/164611
 
-#EXTINF:-1 id="ocko.br" tvg-logo="https://tinyurl.com/v2ptvbue" group-title="SPORTS", Premiere
+#EXTINF:-1 id="Premiere.br" tvg-logo="https://dnt33b.infinityfreeapp.com/apk/img/premiere.png" group-title="SPORTS", Premiere
 http://srv.cldplay.in:80/lelezago/lelezago@2021/83601
 
-#EXTINF:-1 id="ocko.br" tvg-logo="https://tinyurl.com/v2ptvbue" group-title="SPORTS", Premiere
+#EXTINF:-1 id="Premiereclubes.br" tvg-logo="https://tinyurl.com/v2ptvbue" group-title="SPORTS", PremiereC
 http://srv.cldplay.in:80/lelezago/lelezago@2021/147634
 
-#EXTINF:-1 id="ocko.br" tvg-logo="https://tinyurl.com/v2ptvbue" group-title="SPORTS", Premiere2
+#EXTINF:-1 id="Premiere2.br" tvg-logo="https://dnt33b.infinityfreeapp.com/apk/img/premiere.png" group-title="SPORTS", Premiere2
 http://srv.cldplay.in:80/lelezago/lelezago@2021/83602
 
-#EXTINF:-1 id="ocko.br" tvg-logo="https://tinyurl.com/v2ptvbue" group-title="SPORTS", Paramount
+#EXTINF:-1 id="Paramount.br" tvg-logo="http://i.ibb.co/5vbzT07/paramount.png" group-title="SPORTS", Paramount
 http://srv.cldplay.in:80/lelezago/lelezago@2021/122541
 
-#EXTINF:-1 id="ocko.br" tvg-logo="https://tinyurl.com/v2ptvbue" group-title="SPORTS", SportyNet
+#EXTINF:-1 id="SportyNet.br" tvg-logo="https://tinyurl.com/v2ptvbue" group-title="SPORTS", SportyNet
 http://srv.cldplay.in:80/lelezago/lelezago@2021/83447
 
-#EXTINF:-1 id="ocko.br" tvg-logo="https://tinyurl.com/v2ptvbue" group-title="SPORTS", DaZn
+#EXTINF:-1 id="DaZn.br" tvg-logo="https://tinyurl.com/v2ptvbue" group-title="SPORTS", DaZn
 http://srv.cldplay.in:80/lelezago/lelezago@2021/151059
 
-#EXTINF:-1 id="ocko.br" tvg-logo="https://tinyurl.com/v2ptvbue" group-title="SPORTS", EspnBr
+#EXTINF:-1 id="EspnBrasil.br" tvg-logo="https://tinyurl.com/v2ptvbue" group-title="SPORTS", EspnBr
 http://srv.cldplay.in:80/lelezago/lelezago@2021/162796
 
-#EXTINF:-1 id="ocko.br" tvg-logo="https://tinyurl.com/v2ptvbue" group-title="SPORTS", Espn
+#EXTINF:-1 id="Espn.br" tvg-logo="http://i.ibb.co/wCQmRpz/espn.png" group-title="SPORTS", Espn
 http://srv.cldplay.in:80/lelezago/lelezago@2021/147542
 
-#EXTINF:-1 id="ocko.br" tvg-logo="https://tinyurl.com/v2ptvbue" group-title="SPORTS", EspnExtra
+#EXTINF:-1 id="EspnExtra.br" tvg-logo="https://tinyurl.com/v2ptvbue" group-title="SPORTS", EspnExtra
 http://srv.cldplay.in:80/lelezago/lelezago@2021/162802
+
+#EXTINF:-1 id="BandSports.br" tvg-logo="http://i.ibb.co/F5vww8f/band2.png" group-title="SPORTS", BandSports
+http://srv.cldplay.in:80/lelezago/lelezago@2021/83529
+
+#EXTINF:-1 id="Sportv.br" tvg-logo="http://i.ibb.co/jD3M1MX/sportv.png" group-title="SPORTS", Sportv
+http://srv.cldplay.in:80/lelezago/lelezago@2021/147689
+
+
+
 
 ############################# CHERNOBYL #################################
 

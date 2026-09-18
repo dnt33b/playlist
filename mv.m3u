@@ -1,5 +1,5 @@
 
-#EXTM3U x-tvg-url=",https://i.mjh.nz/PlutoTV/br.xml.gz,https://www.open-epg.com/files/brazil1.xml"
+#EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/br.xml.gz,https://www.open-epg.com/files/brazil1.xml"
 
 
 ############################## CANAIS RUNTIME & PLUTO FILMES  ###############################
@@ -58,6 +58,15 @@ https://srv5.zcast.com.br/universotv/universotv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yWNpSDp/uivtv.jpg" group-title="TV.ONLINE", CHAVINHO
 http://srv.cldplay.in:80/lelezago/lelezago@2021/133414
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yWNpSDp/uivtv.jpg" group-title="TV.ONLINE", CHAPOLIN
+http://srv.cldplay.in:80/lelezago/lelezago@2021/62975
+
+#EXTINF:-1 tvg-logo="http://dnt33b.infinityfreeapp.com/apk/img/simpsons.png" group-title="TV.ONLINE", Simpsoms
+http://srv.cldplay.in:80/lelezago/lelezago@2021/147479
+
+#EXTINF:-1 tvg-logo="http://dnt33b.infinityfreeapp.com/apk/img/simpsons.png" group-title="TV.ONLINE", Simpsoms
+http://srv.cldplay.in:80/lelezago/lelezago@2021/62995
+
 #EXTINF:-1 id="History2Brazil.br" tvg-logo="https://i.ibb.co/FzPfp6h/dsfgfdgfd.jpg" group-title="TV.ONLINE", HistoryTime
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantllc-historytime-tablo/playlist.m3u8
 
@@ -106,12 +115,8 @@ https://tv02.zas.media:1936/redetvparana/redetvparana/chunklist_w16199828.m3u8
 #EXTINF:-1 id="FUTURA.br" tvg-logo="http://i.ibb.co/YTQFWJy/novo.png" group-title="OPEN.TV", TV FUTURA
 https://tv.unisc.br/hls/test.m3u8
 
-#EXTINF:-1 id="tva" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuld-p7Gna7pMEBQyWhUDb0OKPf6Xs4jkLIw&s" group-title="OPEN.TV", TV AFRICA SD
-https://video-auth4.iol.pt/live_tvi_africa/live_tvi_africa/edge_servers/tviafrica-480p/playlist.m3u8
-
-#EXTINF:-1 id="TVF" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDScBzzNPQk4Mvs-hCdLZgJ4dGN-J2jXH9ng&s" group-title="OPEN.TV",  TV FICÇÃO HD
-https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8
-
+#EXTINF:-1 id="Gazeta.br" tvg-logo="http://i.ibb.co/9nnS7dR/g.png" group-title="OPEN.TV", GAZETA
+http://srv.cldplay.in:80/lelezago/lelezago@2021/83454
 
 ############################### RADIO #####################################
 
@@ -160,7 +165,47 @@ https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1228000.m3u8
 #EXTINF:-1 id="ocko.br" tvg-logo="https://i.ibb.co/nLfJw3y/OCKO.png" group-title="SOUND", OCKO SD
 https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/chunklist_b928000.m3u8
 
+############################# SPORTS #################################
 
+
+#EXTINF:-1 id="ocko.br" tvg-logo="https://tinyurl.com/v2ptvbue" group-title="SPORTS", ONEFOOTBALL
+http://srv.cldplay.in:80/lelezago/lelezago@2021/151162
+
+#EXTINF:-1 id="ocko.br" tvg-logo="https://tinyurl.com/v2ptvbue" group-title="SPORTS", Prime
+http://srv.cldplay.in:80/lelezago/lelezago@2021/83347
+
+#EXTINF:-1 id="ocko.br" tvg-logo="https://tinyurl.com/v2ptvbue" group-title="SPORTS", Prime 2
+http://srv.cldplay.in:80/lelezago/lelezago@2021/83452
+
+#EXTINF:-1 id="ocko.br" tvg-logo="https://tinyurl.com/v2ptvbue" group-title="SPORTS", Xsports
+http://srv.cldplay.in:80/lelezago/lelezago@2021/164611
+
+#EXTINF:-1 id="ocko.br" tvg-logo="https://tinyurl.com/v2ptvbue" group-title="SPORTS", Premiere
+http://srv.cldplay.in:80/lelezago/lelezago@2021/83601
+
+#EXTINF:-1 id="ocko.br" tvg-logo="https://tinyurl.com/v2ptvbue" group-title="SPORTS", Premiere
+http://srv.cldplay.in:80/lelezago/lelezago@2021/147634
+
+#EXTINF:-1 id="ocko.br" tvg-logo="https://tinyurl.com/v2ptvbue" group-title="SPORTS", Premiere2
+http://srv.cldplay.in:80/lelezago/lelezago@2021/83602
+
+#EXTINF:-1 id="ocko.br" tvg-logo="https://tinyurl.com/v2ptvbue" group-title="SPORTS", Paramount
+http://srv.cldplay.in:80/lelezago/lelezago@2021/122541
+
+#EXTINF:-1 id="ocko.br" tvg-logo="https://tinyurl.com/v2ptvbue" group-title="SPORTS", SportyNet
+http://srv.cldplay.in:80/lelezago/lelezago@2021/83447
+
+#EXTINF:-1 id="ocko.br" tvg-logo="https://tinyurl.com/v2ptvbue" group-title="SPORTS", DaZn
+http://srv.cldplay.in:80/lelezago/lelezago@2021/151059
+
+#EXTINF:-1 id="ocko.br" tvg-logo="https://tinyurl.com/v2ptvbue" group-title="SPORTS", EspnBr
+http://srv.cldplay.in:80/lelezago/lelezago@2021/162796
+
+#EXTINF:-1 id="ocko.br" tvg-logo="https://tinyurl.com/v2ptvbue" group-title="SPORTS", Espn
+http://srv.cldplay.in:80/lelezago/lelezago@2021/147542
+
+#EXTINF:-1 id="ocko.br" tvg-logo="https://tinyurl.com/v2ptvbue" group-title="SPORTS", EspnExtra
+http://srv.cldplay.in:80/lelezago/lelezago@2021/162802
 
 ############################# CHERNOBYL #################################
 
